@@ -1,0 +1,11 @@
+https://www.mathworks.com/matlabcentral/fileexchange/42440-color-detection-by-hsv-color-model?focused=3789048&tab=function
+
+http://personal.us.es/majiro/2014_10_10_clase2.pdf
+
+https://pdfs.semanticscholar.org/b8a5/0d0f444b1f8f50180d002f993b06ef465db9.pdf
+
+https://www.youtube.com/channel/UCKmZllxzewpOgmIsKzvHU1Q/videos "EL PF"
+
+https://www.sciencedirect.com/science/article/pii/S2214317315000347
+
+https://medium.com/swlh/image-processing-using-matlab-octave-part-2-218627067a5d
